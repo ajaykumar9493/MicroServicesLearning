@@ -1,0 +1,16 @@
+Url       :::  http://localhost:8010/correncyConvertion/Rupee/change/USD
+
+h2-Console   :::   http://localhost:8090/h2-console/
+
+
+
+responce  :::  
+{
+"id": 11,
+"from": "USA",
+"to": "INR",
+"convertionMultiple": 50,
+"portAddress": "8000",
+"environmentVariable": "500"
+}
+
